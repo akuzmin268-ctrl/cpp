@@ -18,7 +18,7 @@ using std::string;
 int main() {
 	setlocale(LC_ALL, "RUS");
 
-	int res = 10;
+	int res = 20;
 	std::cout << res;
 
 
